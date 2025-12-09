@@ -7,3 +7,6 @@ text embeddings as conditioning input.
 representations work.
 - Evaluate generated results quantitatively and qualitatively.
 - Reflect on ethical and societal implications of generative AI.
+
+Final Code: "Generative_Project_Milestone3.ipynb"
+Demo & Gallery: Generative_Project_Demo.ipynb"
